@@ -1,0 +1,13 @@
+* {
+    font-family: "Verdana", sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+.main {
+    width: 400px;
+    height: auto;
+}
+
+li {
+    font-size: 18px;
+}
